@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Frog.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Frog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/methods/Frog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="598">
@@ -38,6 +38,16 @@
                 <element signature="e#448#449#0" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodsReturnValue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/methods/MethodsReturnValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/loops/WhileLoop.java" />
         <option value="$PROJECT_DIR$/src/methods/StaticMethods.java" />
         <option value="$PROJECT_DIR$/src/methods/Frog.java" />
+        <option value="$PROJECT_DIR$/src/methods/MethodsReturnValue.java" />
       </list>
     </option>
   </component>
@@ -170,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticMethods">
+  <component name="RunManager" selected="Application.MethodsReturnValue">
     <configuration default="false" name="ForLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -219,6 +230,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="methods.StaticMethods" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaBasics" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MethodsReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="methods.MethodsReturnValue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -684,16 +715,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.ForLoopExample" />
       <item index="1" class="java.lang.String" itemvalue="Application.WhileLoop" />
       <item index="2" class="java.lang.String" itemvalue="Application.StaticMethods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MethodsReturnValue" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.StaticMethods" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WhileLoop" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ForLoopExample" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.MethodsReturnValue" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StaticMethods" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WhileLoop" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ForLoopExample" />
       </list>
     </recent_temporary>
   </component>
@@ -712,12 +745,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533749034845</updated>
-      <workItem from="1533749036173" duration="5773000" />
+      <workItem from="1533749036173" duration="7042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5773000" />
+    <option name="totallyTimeSpent" value="7042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1038" extended-state="0" />
@@ -738,7 +771,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -807,6 +840,14 @@
             <element signature="e#448#449#0" expanded="true" />
             <element signature="e#508#509#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/methods/MethodsReturnValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
