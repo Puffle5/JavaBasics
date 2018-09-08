@@ -11,10 +11,6 @@ public class MethodsReturnValue {
 
 
     }
-
-
-
-
     public static void calculateSum(int[] array) {
         int number = 0;
         for (int i=0; i<array.length; i++) {

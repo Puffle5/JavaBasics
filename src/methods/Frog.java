@@ -16,7 +16,7 @@ public class Frog {
     }
 
     public void jump(String lovelyGirl) {
-        System.out.println("The frog( "+this.name+" ) is jumping and enjoys "+lovelyGirl+" company.");
+        System.out.println("The frog( "+this.getName()+" ) is jumping and enjoys "+lovelyGirl+" company.");
     }
     public static void typeOfAnimal () {
         System.out.println("The frog is amphibian.");
